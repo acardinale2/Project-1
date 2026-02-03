@@ -7,10 +7,11 @@
 ### -Uses a set filtering system to identify dates and times where concentration was unhealthy
 ### -Displays Data in an easy to read format with easy to understand conding structure
 
-# Coding Resources used
+# Coding Resources needed
 ### -Python
 ### -Pandas libary for tools and aggregation
 ### -Jupyter Notebook
+### -attached CSV file of the raw data
 
 # How to use
 ### -Make sure pandas and python is installed in the enviroment
