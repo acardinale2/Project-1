@@ -13,6 +13,6 @@
 ## -Jupyter Notebook
 
 # How to use
-## - Make sure pandas and python is installed in the enviroment
-##- Make sure the Raw CSV is in the same working directory as your notebook
+## -Make sure pandas and python is installed in the enviroment
+## -Make sure the Raw CSV is in the same working directory as your notebook
 ## -Run the code ensuring to not skip any lines in the process as each line is required for each subsequent line to run
